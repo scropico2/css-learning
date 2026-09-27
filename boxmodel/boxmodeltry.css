@@ -1,0 +1,24 @@
+.box-a,
+.box-b,
+.box-c {
+    font-size: 18px; color: white;
+}
+
+.box-a {
+    background-color:gold;
+
+    padding: 20px;
+
+}
+
+.box-b {
+    background-color: blueviolet;
+    margin: 30px;
+
+}
+
+.box-c {
+    background-color: blue;
+    padding: 15px;
+    border: 5px solid black;
+}

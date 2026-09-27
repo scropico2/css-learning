@@ -1,0 +1,15 @@
+.blockqoute,
+.figcaption {
+    font-size: 22px; font-family: Georgia, Cambria, serif;
+
+}
+
+.blockqoute {
+    background-color: darkgray;
+    color: white;
+
+}
+
+.figcaption {
+    background-color: lightpink;
+}

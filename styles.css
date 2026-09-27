@@ -1,0 +1,62 @@
+* div {
+    color: purple;
+}
+.alert-text {
+    color: red;
+}
+.severe-alert {
+ font-weight: bold;
+}
+#title {
+    background-color: red;
+}
+#titleone {
+    background-color: blue;
+}
+.read,
+.unread {
+    color: white;
+    background-color: black;
+}
+
+.read {
+    /* several unique declarations */
+}
+
+.unread {
+
+}
+
+.subsection.header {
+    color: red;
+}
+.subsection#preview {
+    color: blue;
+}
+.ancestor .contents {
+    background-color: yellow;
+}
+
+p {
+  /* hex example: */
+  color: #1100ff;
+}
+p {font-family: Times 'Times New Roman', Times, serif;
+}
+
+h3 {font-family: Arial, Helvetica, sans-serif;
+}
+
+p {font-size: 18px;
+}
+
+
+h3 {
+    font-size: 2em;
+}
+
+body {
+    font-size: 1.2rem;
+}
+
+h3 {text-align: center;}

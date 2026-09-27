@@ -1,0 +1,33 @@
+.panel {
+    box-sizing: border-box;
+    width: 250px;
+    background-color: darkorchid;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 30px 0;
+    
+}
+
+
+.panel .warning { color: red;
+}
+ 
+.panel #critical {
+    color: blue;
+}
+
+.title {
+    color: green !important;
+}
+
+
+.fine {
+    box-sizing: border-box;
+    width: 250px;
+    background-color: gold;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 30px 0;
+    
+
+}

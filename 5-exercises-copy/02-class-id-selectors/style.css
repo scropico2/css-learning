@@ -1,0 +1,15 @@
+.even {
+background-color: rgb(173 216 230 ); 
+font-family: Georgia, Garamond, serif; 
+}
+#first {
+    font-size: 30px;
+}
+#third {
+    font-size: 22px; font-style: italic;
+}
+#fifth {
+    background-color: yellow;
+    font-size: 22px;
+    text-decoration: underline;
+}
